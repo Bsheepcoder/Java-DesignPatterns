@@ -6,11 +6,6 @@
     <version>1.0-SNAPSHOT</version>
     <name>java-design</name>
     <url>https://maven.apache.org</url>
-    <modules>
-        <module>java01-Singleton</module>
-    </modules>
-
-    <packaging>pom</packaging>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
