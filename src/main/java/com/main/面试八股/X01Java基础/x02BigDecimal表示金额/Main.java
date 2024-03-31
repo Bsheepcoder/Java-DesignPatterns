@@ -1,4 +1,4 @@
-package com.main.面试八股.x02BigDecimal表示金额;
+package com.main.interview.x02BigDecimal表示金额;
 
 import java.math.BigDecimal;
 

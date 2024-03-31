@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96793266-4ca2-4c71-969c-f84affdbbc9c" name="更改" comment="添加readme">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/x01数组是对象/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/x02BigDecimal表示金额/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="96793266-4ca2-4c71-969c-f84affdbbc9c" name="更改" comment="添加链接">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/算法分析/X01位运算/x01与或非/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/算法分析/X03字符串/x01char/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X01Java基础/x03基本数据类型的拆箱和装箱/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X01Java基础/x04new一个String创建几个对象/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X01Java基础/x05Object对象方法/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X01Java基础/x06Cloneable接口/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X02集合/x01遍历ArrayList移除一个元素/DeletListItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/java01_Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/设计模式/java01_Singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/java01_Singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/设计模式/java01_Singleton/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/设计模式/java01_Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/设计模式/X01单例模式/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/设计模式/java01_Singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/设计模式/X01单例模式/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/面试八股/x01数组是对象/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X01Java基础/x01数组是对象/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/面试八股/x02BigDecimal表示金额/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/面试八股/X01Java基础/x02BigDecimal表示金额/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/JAVA_Item/Java-DesignPatterns",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,19 +65,23 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.29425287",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Main.executor": "Run",
-    "应用程序.com.main.面试八股.x02BigDecimal表示金额.Main.executor": "Run"
+    "应用程序.Solution.executor": "Debug",
+    "应用程序.com.main.算法分析.X01位运算.x01与或非.Main.executor": "Run",
+    "应用程序.com.main.面试八股.x02BigDecimal表示金额.Main.executor": "Run",
+    "应用程序.com.main.面试八股.x03基本数据类型的拆箱和装箱.Main.executor": "Run",
+    "应用程序.com.main.面试八股.x05Object对象方法.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.com.main.面试八股.x02BigDecimal表示金额.Main">
+  <component name="RunManager" selected="应用程序.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.面试八股.x01数组是对象.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.main.算法分析.X03字符串.x01char.Main" />
       <module name="java-design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.main.面试八股.x01数组是对象.*" />
+          <option name="PATTERN" value="com.main.算法分析.X03字符串.x01char.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +89,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.main.面试八股.x02BigDecimal表示金额.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.面试八股.x02BigDecimal表示金额.Main" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.算法分析.Test.Solution" />
       <module name="java-design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.main.面试八股.x02BigDecimal表示金额.*" />
+          <option name="PATTERN" value="com.main.算法分析.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.main.面试八股.X01Java基础.x05Object对象方法.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.面试八股.X01Java基础.x05Object对象方法.Main" />
+      <module name="java-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.面试八股.X01Java基础.x05Object对象方法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.main.算法分析.X01位运算.x01与或非.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.算法分析.X01位运算.x01与或非.Main" />
+      <module name="java-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.算法分析.X01位运算.x01与或非.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.main.面试八股.x03基本数据类型的拆箱和装箱.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.面试八股.x03基本数据类型的拆箱和装箱.Main" />
+      <module name="java-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.面试八股.x03基本数据类型的拆箱和装箱.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.com.main.面试八股.x02BigDecimal表示金额.Main" />
         <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.com.main.算法分析.X01位运算.x01与或非.Main" />
+        <item itemvalue="应用程序.Solution" />
+        <item itemvalue="应用程序.com.main.面试八股.X01Java基础.x05Object对象方法.Main" />
+        <item itemvalue="应用程序.com.main.面试八股.x03基本数据类型的拆箱和装箱.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +180,12 @@
       <option name="presentableId" value="Default" />
       <updated>1711600154915</updated>
       <workItem from="1711600155971" duration="2670000" />
-      <workItem from="1711621386308" duration="1189000" />
+      <workItem from="1711621386308" duration="6145000" />
+      <workItem from="1711632535570" duration="2147000" />
+      <workItem from="1711697368126" duration="156000" />
+      <workItem from="1711790212879" duration="3419000" />
+      <workItem from="1711874387574" duration="610000" />
+      <workItem from="1711892737505" duration="6126000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme">
       <option name="closed" value="true" />
@@ -139,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711600446181</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="面试八股">
+      <option name="closed" value="true" />
+      <created>1711622687217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711622687217</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加链接">
+      <option name="closed" value="true" />
+      <created>1711622898881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711622898881</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +219,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加readme" />
+    <MESSAGE value="面试八股" />
+    <MESSAGE value="添加链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加链接" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

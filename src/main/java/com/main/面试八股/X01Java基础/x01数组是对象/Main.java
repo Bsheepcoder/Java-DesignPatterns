@@ -1,4 +1,4 @@
-package com.main.面试八股.x01数组是对象;
+package com.main.interview.x01数组是对象;
 
 public class Main {
     public static void main(String[] args) {
