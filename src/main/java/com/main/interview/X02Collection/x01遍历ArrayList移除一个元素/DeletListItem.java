@@ -1,4 +1,4 @@
-package com.main.面试八股.X02集合.x01遍历ArrayList移除一个元素;
+package com.main.interview.X02Collection.x01遍历ArrayList移除一个元素;
 
 import java.util.ArrayList;
 import java.util.Iterator;
