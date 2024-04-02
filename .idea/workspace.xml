@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96793266-4ca2-4c71-969c-f84affdbbc9c" name="更改" comment="新的学习 ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x07TryCatch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x01extendThread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x02Runable/RunableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x02Runable/Runnable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x03Cabllable/Callable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x03Cabllable/CallableTest.java" afterDir="false" />
+    <list default="true" id="96793266-4ca2-4c71-969c-f84affdbbc9c" name="更改" comment="新的学习 Thread">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x08Override_OverLoad/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x08Override_OverLoad/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X02Collection/x04HashMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x01CreateThread/x03Callable/Callable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x02ThreadPool/x01FixedThreadPool/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x02ThreadPool/x02SingleThreadExecutor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x02ThreadPool/x03CachedThreadPool/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/img/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x01数组是对象/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x01数组是对象/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x02BigDecimal表示金额/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x02BigDecimal表示金额/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x03基本数据类型的拆箱和装箱/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x03基本数据类型的拆箱和装箱/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x04new一个String创建几个对象/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x04new一个String创建几个对象/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x05Object对象方法/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x05Object对象方法/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x06Cloneable接口/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x06Cloneable接口/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X01JavaBase/x07TryCatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X01JavaBase/x07TryCatch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x01遍历ArrayList移除一个元素/DeletListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X02Collection/x01遍历ArrayList移除一个元素/DeletListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X02Collection/x02Collection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/img/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X02Collection/x02Collection/img/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x02Collection/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X02Collection/x02Collection/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X02Collection/x03ArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X02Collection/x03ArrayList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x01extendThread/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x01CreateThread/x01extendThread/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x02Runable/RunableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x01CreateThread/x02Runable/RunableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x02Runable/Runnable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x01CreateThread/x02Runable/Runnable1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x03Cabllable/Callable1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/interview/X03Thread/x01CreateThread/x03Cabllable/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/Interview_Question/X03Thread/x01CreateThread/x03Callable/CallableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +85,10 @@
     "应用程序.MyThread.executor": "Run",
     "应用程序.RunableTest.executor": "Run",
     "应用程序.Solution.executor": "Debug",
+    "应用程序.Student.executor": "Run",
+    "应用程序.com.main.Interview_Question.X03Thread.x02ThreadPool.x01FixedThreadPool.Main.executor": "Run",
+    "应用程序.com.main.Interview_Question.X03Thread.x02ThreadPool.x02SingleThreadExecutor.Main.executor": "Run",
+    "应用程序.com.main.Interview_Question.X03Thread.x02ThreadPool.x03CachedThreadPool.Main.executor": "Run",
     "应用程序.com.main.interview.X01JavaBase.x07TryCatch.Main.executor": "Run",
     "应用程序.com.main.interview.X02Collection.x02Collection.Main.executor": "Run",
     "应用程序.com.main.interview.X02Collection.x03ArrayList.Main.executor": "Run",
@@ -83,26 +104,13 @@
       <recent name="E:\JAVA_Item\Java-DesignPatterns\src\main\java\com\main\interview\X02Collection\x02Collection\img" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.RunableTest">
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.interview.X03Thread.x01CreateThread.x01extendThread.MyThread" />
-      <module name="java-design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.main.interview.X03Thread.x01CreateThread.x01extendThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Student">
     <configuration name="RunableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.interview.X03Thread.x01CreateThread.x02Runable.RunableTest" />
+      <option name="MAIN_CLASS_NAME" value="com.main.Interview_Question.X03Thread.x01CreateThread.x02Runable.RunableTest" />
       <module name="java-design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.main.interview.X03Thread.x01CreateThread.x02Runable.*" />
+          <option name="PATTERN" value="com.main.Interview_Question.X03Thread.x01CreateThread.x02Runable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.main.interview.X01JavaBase.x07TryCatch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.interview.X01JavaBase.x07TryCatch.Main" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.Interview_Question.X01JavaBase.x08Override_OverLoad.Student" />
       <module name="java-design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.main.interview.X01JavaBase.x07TryCatch.*" />
+          <option name="PATTERN" value="com.main.Interview_Question.X01JavaBase.x08Override_OverLoad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.main.interview.X02Collection.x02Collection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.interview.X02Collection.x02Collection.Main" />
+    <configuration name="com.main.Interview_Question.X03Thread.x02ThreadPool.x01FixedThreadPool.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.Interview_Question.X03Thread.x02ThreadPool.x01FixedThreadPool.Main" />
       <module name="java-design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.main.interview.X02Collection.x02Collection.*" />
+          <option name="PATTERN" value="com.main.Interview_Question.X03Thread.x02ThreadPool.x01FixedThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.main.interview.X02Collection.x03ArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.main.interview.X02Collection.x03ArrayList.Main" />
+    <configuration name="com.main.Interview_Question.X03Thread.x02ThreadPool.x02SingleThreadExecutor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.Interview_Question.X03Thread.x02ThreadPool.x02SingleThreadExecutor.Main" />
       <module name="java-design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.main.interview.X02Collection.x03ArrayList.*" />
+          <option name="PATTERN" value="com.main.Interview_Question.X03Thread.x02ThreadPool.x02SingleThreadExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.main.Interview_Question.X03Thread.x02ThreadPool.x03CachedThreadPool.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.Interview_Question.X03Thread.x02ThreadPool.x03CachedThreadPool.Main" />
+      <module name="java-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.Interview_Question.X03Thread.x02ThreadPool.x03CachedThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Student" />
+        <item itemvalue="应用程序.com.main.Interview_Question.X03Thread.x02ThreadPool.x03CachedThreadPool.Main" />
+        <item itemvalue="应用程序.com.main.Interview_Question.X03Thread.x02ThreadPool.x02SingleThreadExecutor.Main" />
+        <item itemvalue="应用程序.com.main.Interview_Question.X03Thread.x02ThreadPool.x01FixedThreadPool.Main" />
         <item itemvalue="应用程序.RunableTest" />
-        <item itemvalue="应用程序.MyThread" />
-        <item itemvalue="应用程序.com.main.interview.X01JavaBase.x07TryCatch.Main" />
-        <item itemvalue="应用程序.com.main.interview.X02Collection.x03ArrayList.Main" />
-        <item itemvalue="应用程序.com.main.interview.X02Collection.x02Collection.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +216,8 @@
       <workItem from="1711874387574" duration="610000" />
       <workItem from="1711892737505" duration="6872000" />
       <workItem from="1711947651132" duration="10476000" />
-      <workItem from="1711958154624" duration="3288000" />
+      <workItem from="1711958154624" duration="3947000" />
+      <workItem from="1712025145294" duration="11446000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme">
       <option name="closed" value="true" />
@@ -245,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711957912377</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新的学习 Thread">
+      <option name="closed" value="true" />
+      <created>1711967854383</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711967854383</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +287,8 @@
     <MESSAGE value="添加链接" />
     <MESSAGE value="新的学习" />
     <MESSAGE value="新的学习 ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="新的学习 ArrayList" />
+    <MESSAGE value="新的学习 Thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的学习 Thread" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
