@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-design" />
+        <module name="java-project" />
+        <module name="java-jdk-learn" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java01-Singleton" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
