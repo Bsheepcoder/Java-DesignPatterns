@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) throws NoSuchFieldException, IllegalAccessException {
         /**
          *  1. Arrays 的作用？
-         *          Arrays 是 int [] 对象的工具类，其中实现了 操作int[] 的静态工具方法
+         *          Arrays 是 int [] 对象的工具类，其中实现了 操作 int[] 的静态工具方法
          *
          *          排序数组：Arrays.sort() 方法用于对数组进行排序。它提供了对各种基本数据类型和对象数组进行排序的重载版本。
          *
@@ -31,7 +31,7 @@ public class Main {
          *          数组转换为集合：Arrays.asList() 方法将数组转换为 List 集合。
          *
          *          数组填充：Arrays.parallelSetAll() 方法和 Arrays.setAll() 方法用于以并行或顺序方式根据给定的生成器函数填充数组。
-         *  2. Arrays和 int[] 的联系？
+         *
          *
          */
         String s = "1,2,3,4,5,6";

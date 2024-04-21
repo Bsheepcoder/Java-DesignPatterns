@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/java-jdk-learn/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-jdk-learn/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-project/java-project-jackson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-project/java-project-jackson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-project/java-project-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-project/java-project-jwt/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-project/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-project/src/main/resources" charset="UTF-8" />
   </component>

@@ -1,7 +1,6 @@
 package com.main.Interview_Question.X02Collection.x02Collection;
 
-import java.util.ArrayList;
-import java.util.Collection;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,12 +9,12 @@ public class Main {
          *      public interface Collection<E> extends Iterable<E>
          *  2. Iterable 迭代类
          *      Iterable 接口只包含一个方法 iterator()，该方法返回一个迭代器对象，因此任何类只要实现了该方法，都可以被称为是可迭代的。
-         *  3. Object 类是java中所有类的父类
+         *  3. Object 类是 java中所有类的父类
          *  4. Objects 类是Java7 引入的工具类，其中的静态方法用于判断类的属性
          *  5. Collection 做了哪些工作？
          *          提供了一种统一的方式来操作集合，而不管具体的集合类型，在类中定义了继承方法的各种规范
          *
-         *          定义接口 Set, List, Map, SortedSet, SortedMap, HashSet, TreeSet, ArrayList, LinkedList, Vector, Collections, Arrays, AbstractCollection
+         *          定义接口 Set, List, Main, SortedSet, SortedMap, HashSet, TreeSet, ArrayList, LinkedList, Vector, Collections, Arrays, AbstractCollection
          *
          *          存储对象：Collection 接口可以存储对象，其中的对象可以是任意类型。这些对象存储在集合中，并且可以根据需要添加、删除或修改。
          *
@@ -39,7 +38,13 @@ public class Main {
         // Objects os = new Objects();  objgects 构造方法为私有
         Object o = new Object();
         Collection c = new ArrayList();
-        Main.print(c.hashCode());
+        com.main.Interview_Question.X02Collection.x02Collection.Main.print(c.hashCode());
+
+        Set<Integer> set = new HashSet<>();
+        Queue<Integer> queu = new ArrayDeque<>();
+        Deque<Integer> deque = new ArrayDeque<>();
+        Map<String,Integer> map = new HashMap<>();
+
 
     }
 
